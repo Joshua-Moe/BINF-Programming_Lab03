@@ -52,6 +52,7 @@ public class FastaClass
 				numC = 0;
 				numG = 0;
 				numT = 0;
+				seq = "";
 				continue;
 			}
 		}
